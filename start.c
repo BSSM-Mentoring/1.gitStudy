@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(int argc, char* argv[]) {
-  printf("hello");
-  printf("김민재");
+  printf("Hello donghyeon Park");
+  printf("박동현");
   return 0;
 }
