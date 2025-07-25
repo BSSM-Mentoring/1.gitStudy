@@ -5,6 +5,7 @@ int main(int argc, char* argv[]) {
   printf("김태후");
   printf("김태후");
   printf("rlaxogn");
+  printf("제발");
   //fdsaffds
   return 0;
 }
